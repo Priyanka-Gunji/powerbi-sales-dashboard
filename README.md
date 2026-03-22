@@ -38,12 +38,6 @@ It helps stakeholders understand performance trends, identify top-performing are
 👉 <img width="1297" height="726" alt="image" src="https://github.com/user-attachments/assets/671d237f-13cd-4f6f-b4f9-81e11246a4d9" />
 ---
 
-## 📂 Project Files
-- `Sales_Dashboard_Portfolio.pbix` → Power BI dashboard file  
-- `dashboard.png` → Dashboard preview image  
-
----
-
 ## 💡 Skills Demonstrated
 - Data Cleaning & Transformation  
 - Data Visualization  
